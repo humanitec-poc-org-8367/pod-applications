@@ -1,0 +1,7 @@
+site_name: 'pod-applications Docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
